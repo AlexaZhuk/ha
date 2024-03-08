@@ -7,7 +7,7 @@
 
 			Console.WriteLine("Hello, hihi!");
 
-			Console.WriteLine("Hello, jopa!");
+			Console.WriteLine("Hello, kropka!");
 
 			int i = 0;
 			Console.WriteLine("who is my cat?");
